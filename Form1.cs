@@ -14,7 +14,7 @@ namespace U44Afl
 {
     public partial class Form1 : Form
     {
-        string strconn = @"Data Source=RASMUS-LAPTOP;Initial Catalog=U44DBAfl;Integrated Security=True";
+        string strconn = @"Data Source=RASMUS-LAPTOP;Initial Catalog=U44DBAfl;Integrated Security=True"; //Connection string to a local SQL DB
         private const bool test = false;
 
         public Form1()
