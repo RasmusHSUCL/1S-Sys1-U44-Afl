@@ -14,7 +14,7 @@ namespace U44Afl
     {
         public Form2()
         {
-            InitializeComponent();
+            InitializeComponent(); //test
         }
     }
 }
